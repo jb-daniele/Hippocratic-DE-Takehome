@@ -4,6 +4,18 @@ from typing import Any
 
 
 LANGUAGE_JUDGE_FAILURE_CODES = [
+    "tense_drift",
+    "abstract_language",
+    "generic_mood_words",
+    "scene_card_leakage",
+    "stiff_or_reported_dialogue",
+    "repetitive_openings",
+    "moralizing_ending",
+    "quote_formatting",
+    "formulaic_repetition",
+]
+
+LANGUAGE_JUDGE_FAILURE_CODE_DESCRIPTIONS = [
     "`tense_drift`: narration uses present tense or switches between present and past tense instead of staying in simple past tense.",
     "`abstract_language`: feelings, success, comfort, or resolution are summarized instead of shown through visible body action, object detail, or story image.",
     "`generic_mood_words`: repeated cozy/soft/gentle/warm/peaceful/magical/glow-style words make the prose generic.",
@@ -16,7 +28,7 @@ LANGUAGE_JUDGE_FAILURE_CODES = [
 ]
 
 def build_prompt(draft: Any) -> str:
-    failure_codes = LANGUAGE_JUDGE_FAILURE_CODES
+    failure_codes = LANGUAGE_JUDGE_FAILURE_CODE_DESCRIPTIONS
     return f"""# Role
 
 You are the StoryNest Language Judge.
@@ -44,6 +56,7 @@ Fail only for clear prose problems that are repeated, prominent, or appear in an
 # Output
 
 Use the required tool. Return only the language judgment.
+Example: {{"verdict": "fail", "failures": [{{"code": "abstract_language", "evidence": "felt a sense of peace", "revision_guidance": "Replace the abstract feeling summary with visible body action."}}]}}
 
 Allowed failure codes:
 
