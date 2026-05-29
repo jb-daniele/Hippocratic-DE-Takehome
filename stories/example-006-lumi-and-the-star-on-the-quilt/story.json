@@ -1,0 +1,127 @@
+{
+  "blueprint": {
+    "category_display_name": "Magical bedtime story",
+    "category_id": "magical_bedtime_story",
+    "character_cards": [],
+    "main_characters": [
+      "Lumi"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Lumi cannot find the silver ribbon bookmark for her moon book.",
+      "ending_image": "A tiny stitched star gives one last soft glimmer beside Lumi's pillow."
+    },
+    "title": "Lumi and the Star on the Quilt"
+  },
+  "classification": {
+    "category_display_name": "Magical bedtime story",
+    "category_id": "magical_bedtime_story",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Lumi"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a magical bedtime story about a glowing star helping a child find a bookmark.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 486,
+    "blueprint": {
+      "category_display_name": "Magical bedtime story",
+      "category_id": "magical_bedtime_story",
+      "character_cards": [],
+      "main_characters": [
+        "Lumi"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Lumi cannot find the silver ribbon bookmark for her moon book.",
+        "ending_image": "A tiny stitched star gives one last soft glimmer beside Lumi's pillow."
+      },
+      "title": "Lumi and the Star on the Quilt"
+    },
+    "cover": {
+      "actual_word_count": 486,
+      "category_chip": "Magical bedtime story",
+      "category_display_name": "Magical bedtime story",
+      "category_id": "magical_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Lumi and the Star on the Quilt"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Lumi was getting ready for bed in her room at the end of the hall. She had stacked her picture books beside the lamp and folded her socks into the small basket by the chair. Her blue quilt was turned down, and her pajamas were buttoned all the way to the top. Only one thing was missing: the silver ribbon bookmark for her moon book.\n\nLumi riffled through the pages of the book, but the bookmark wasn't tucked inside any of them. Then, right at the edge of her pillow, a tiny glow blinked on. It was shaped like a star and no bigger than a coat button. The little glow winked once, then stretched a thin line of light straight across the quilt.",
+      "Lumi lifted the pillow up with both hands. Underneath sat a small star of light, flat and bright, as if someone had snipped it out of moonshine. It didn't fly, or buzz, or make a single sound. But when Lumi leaned in close to look, the star slowly tipped one of its points toward the side of the bed.\n\nThat point cast a faint silver stripe across the floorboards. Lumi followed the stripe with her eyes until it reached the shadow behind the bed leg. There, tucked just under the wooden rail, a curl of silver ribbon lay against the wall. \"You found my bookmark,\" Lumi whispered to the star.",
+      "The star could point, but it couldn't reach \u2014 so Lumi knelt down on the rug and slid one arm carefully behind the bed leg. Her fingertips brushed the ribbon, but it only slipped farther back into the shadow. She fetched her hairbrush and used the handle to coax the bookmark closer, then pinched it between two fingers. A little dust bunny came along with it, so she brushed the ribbon clean against her pajama knee.\n\nThe star on the quilt blinked two slow times, as if it were satisfied. Its bright points folded gently inward, one by one, until it had become a tiny stitched star sewn near the pillow seam. Lumi reached out and touched the stitch with one finger. It felt like ordinary thread now, just a little warm from the lamp.",
+      "Lumi slid the silver bookmark back between the pages of her moon book where it belonged. She set the book on the bedside table with the ribbon hanging neatly from the bottom edge. Then she climbed under the quilt and tucked her feet down into the smooth, cool corner. The lamp made one small circle of light beside her hand.\n\nMom opened the door just wide enough to say good night, then reached in and clicked the lamp off. The silver ribbon lay still inside the closed book. On the quilt, the tiny stitched star rested quietly beside Lumi's pillow. In the dark room it gave one last soft glimmer, then settled into a still, quiet dot."
+    ],
+    "request": {
+      "main_character_name": "Lumi",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Lumi was getting ready for bed in her room at the end of the hall. She had stacked her picture books beside the lamp and folded her socks into the small basket by the chair. Her blue quilt was turned down, and her pajamas were buttoned all the way to the top. Only one thing was missing: the silver ribbon bookmark for her moon book.\n\nLumi riffled through the pages of the book, but the bookmark wasn't tucked inside any of them. Then, right at the edge of her pillow, a tiny glow blinked on. It was shaped like a star and no bigger than a coat button. The little glow winked once, then stretched a thin line of light straight across the quilt.\n\nLumi lifted the pillow up with both hands. Underneath sat a small star of light, flat and bright, as if someone had snipped it out of moonshine. It didn't fly, or buzz, or make a single sound. But when Lumi leaned in close to look, the star slowly tipped one of its points toward the side of the bed.\n\nThat point cast a faint silver stripe across the floorboards. Lumi followed the stripe with her eyes until it reached the shadow behind the bed leg. There, tucked just under the wooden rail, a curl of silver ribbon lay against the wall. \"You found my bookmark,\" Lumi whispered to the star.\n\nThe star could point, but it couldn't reach \u2014 so Lumi knelt down on the rug and slid one arm carefully behind the bed leg. Her fingertips brushed the ribbon, but it only slipped farther back into the shadow. She fetched her hairbrush and used the handle to coax the bookmark closer, then pinched it between two fingers. A little dust bunny came along with it, so she brushed the ribbon clean against her pajama knee.\n\nThe star on the quilt blinked two slow times, as if it were satisfied. Its bright points folded gently inward, one by one, until it had become a tiny stitched star sewn near the pillow seam. Lumi reached out and touched the stitch with one finger. It felt like ordinary thread now, just a little warm from the lamp.\n\nLumi slid the silver bookmark back between the pages of her moon book where it belonged. She set the book on the bedside table with the ribbon hanging neatly from the bottom edge. Then she climbed under the quilt and tucked her feet down into the smooth, cool corner. The lamp made one small circle of light beside her hand.\n\nMom opened the door just wide enough to say good night, then reached in and clicked the lamp off. The silver ribbon lay still inside the closed book. On the quilt, the tiny stitched star rested quietly beside Lumi's pillow. In the dark room it gave one last soft glimmer, then settled into a still, quiet dot.",
+      "title": "Lumi and the Star on the Quilt"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 486,
+    "body": "Lumi was getting ready for bed in her room at the end of the hall. She had stacked her picture books beside the lamp and folded her socks into the small basket by the chair. Her blue quilt was turned down, and her pajamas were buttoned all the way to the top. Only one thing was missing: the silver ribbon bookmark for her moon book.\n\nLumi riffled through the pages of the book, but the bookmark wasn't tucked inside any of them. Then, right at the edge of her pillow, a tiny glow blinked on. It was shaped like a star and no bigger than a coat button. The little glow winked once, then stretched a thin line of light straight across the quilt.\n\nLumi lifted the pillow up with both hands. Underneath sat a small star of light, flat and bright, as if someone had snipped it out of moonshine. It didn't fly, or buzz, or make a single sound. But when Lumi leaned in close to look, the star slowly tipped one of its points toward the side of the bed.\n\nThat point cast a faint silver stripe across the floorboards. Lumi followed the stripe with her eyes until it reached the shadow behind the bed leg. There, tucked just under the wooden rail, a curl of silver ribbon lay against the wall. \"You found my bookmark,\" Lumi whispered to the star.\n\nThe star could point, but it couldn't reach \u2014 so Lumi knelt down on the rug and slid one arm carefully behind the bed leg. Her fingertips brushed the ribbon, but it only slipped farther back into the shadow. She fetched her hairbrush and used the handle to coax the bookmark closer, then pinched it between two fingers. A little dust bunny came along with it, so she brushed the ribbon clean against her pajama knee.\n\nThe star on the quilt blinked two slow times, as if it were satisfied. Its bright points folded gently inward, one by one, until it had become a tiny stitched star sewn near the pillow seam. Lumi reached out and touched the stitch with one finger. It felt like ordinary thread now, just a little warm from the lamp.\n\nLumi slid the silver bookmark back between the pages of her moon book where it belonged. She set the book on the bedside table with the ribbon hanging neatly from the bottom edge. Then she climbed under the quilt and tucked her feet down into the smooth, cool corner. The lamp made one small circle of light beside her hand.\n\nMom opened the door just wide enough to say good night, then reached in and clicked the lamp off. The silver ribbon lay still inside the closed book. On the quilt, the tiny stitched star rested quietly beside Lumi's pillow. In the dark room it gave one last soft glimmer, then settled into a still, quiet dot.",
+    "category_display_name": "Magical bedtime story",
+    "category_id": "magical_bedtime_story",
+    "characters": [
+      "Lumi",
+      "Mom"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 486,
+      "category_chip": "Magical bedtime story",
+      "category_display_name": "Magical bedtime story",
+      "category_id": "magical_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Lumi and the Star on the Quilt"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "A tiny stitched star gives one last soft glimmer beside Lumi's pillow.",
+    "gentle_conflict": "Lumi cannot find the silver ribbon bookmark for her moon book.",
+    "id": "example-006-lumi-and-the-star-on-the-quilt",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Lumi was getting ready for bed in her room at the end of the hall. She had stacked her picture books beside the lamp and folded her socks into the small basket by the chair. Her blue quilt was turned down, and her pajamas were buttoned all the way to the top. Only one thing was missing: the silver ribbon bookmark for her moon book.\n\nLumi riffled through the pages of the book, but the bookmark wasn't tucked inside any of them. Then, right at the edge of her pillow, a tiny glow blinked on. It was shaped like a star and no bigger than a coat button. The little glow winked once, then stretched a thin line of light straight across the quilt.",
+      "Lumi lifted the pillow up with both hands. Underneath sat a small star of light, flat and bright, as if someone had snipped it out of moonshine. It didn't fly, or buzz, or make a single sound. But when Lumi leaned in close to look, the star slowly tipped one of its points toward the side of the bed.\n\nThat point cast a faint silver stripe across the floorboards. Lumi followed the stripe with her eyes until it reached the shadow behind the bed leg. There, tucked just under the wooden rail, a curl of silver ribbon lay against the wall. \"You found my bookmark,\" Lumi whispered to the star.",
+      "The star could point, but it couldn't reach \u2014 so Lumi knelt down on the rug and slid one arm carefully behind the bed leg. Her fingertips brushed the ribbon, but it only slipped farther back into the shadow. She fetched her hairbrush and used the handle to coax the bookmark closer, then pinched it between two fingers. A little dust bunny came along with it, so she brushed the ribbon clean against her pajama knee.\n\nThe star on the quilt blinked two slow times, as if it were satisfied. Its bright points folded gently inward, one by one, until it had become a tiny stitched star sewn near the pillow seam. Lumi reached out and touched the stitch with one finger. It felt like ordinary thread now, just a little warm from the lamp.",
+      "Lumi slid the silver bookmark back between the pages of her moon book where it belonged. She set the book on the bedside table with the ribbon hanging neatly from the bottom edge. Then she climbed under the quilt and tucked her feet down into the smooth, cool corner. The lamp made one small circle of light beside her hand.\n\nMom opened the door just wide enough to say good night, then reached in and clicked the lamp off. The silver ribbon lay still inside the closed book. On the quilt, the tiny stitched star rested quietly beside Lumi's pillow. In the dark room it gave one last soft glimmer, then settled into a still, quiet dot."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-006-lumi-and-the-star-on-the-quilt",
+    "source_request": "Write a magical bedtime story about a glowing star helping a child find a bookmark.",
+    "story_html_path": "stories/example-006-lumi-and-the-star-on-the-quilt/story.html",
+    "story_json_path": "stories/example-006-lumi-and-the-star-on-the-quilt/story.json",
+    "story_mode": "auto_detect",
+    "title": "Lumi and the Star on the Quilt",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Lumi",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-006-lumi-and-the-star-on-the-quilt"
+}

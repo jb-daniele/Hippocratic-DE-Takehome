@@ -1,0 +1,129 @@
+{
+  "blueprint": {
+    "category_display_name": "Cozy animal story",
+    "category_id": "cozy_animal_story",
+    "character_cards": [],
+    "main_characters": [
+      "Milo Mouse"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Milo needs to mend a small gap in his burrow roof before rain drips through.",
+      "ending_image": "Milo rests dry under the patched leaf roof while Junie listens to the rain."
+    },
+    "title": "Milo\u2019s Leaf Roof"
+  },
+  "classification": {
+    "category_display_name": "Cozy animal story",
+    "category_id": "cozy_animal_story",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Milo Mouse"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a cozy animal story about a mouse fixing his leaf roof before bedtime.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 542,
+    "blueprint": {
+      "category_display_name": "Cozy animal story",
+      "category_id": "cozy_animal_story",
+      "character_cards": [],
+      "main_characters": [
+        "Milo Mouse"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Milo needs to mend a small gap in his burrow roof before rain drips through.",
+        "ending_image": "Milo rests dry under the patched leaf roof while Junie listens to the rain."
+      },
+      "title": "Milo\u2019s Leaf Roof"
+    },
+    "cover": {
+      "actual_word_count": 542,
+      "category_chip": "Cozy animal story",
+      "category_display_name": "Cozy animal story",
+      "category_id": "cozy_animal_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 5,
+      "title": "Milo\u2019s Leaf Roof"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Milo Mouse lived in a little burrow beneath the blackberry hedge, where the tangled roots made a round brown ceiling over his bed. Each evening he swept the doorway with a fern stem and lined his sleeping nook with dry oak leaves. His thimble cup sat on a flat gray stone, and his red thread blanket lay folded neatly at the foot of the nest. Before climbing in, Milo always reached up and tapped the leaf roof once with his paw to make sure it was snug.",
+      "That night, when Milo tapped the roof, one dry leaf slipped loose and drifted straight down onto his nose. He looked up and saw a small open patch of sky between two roots. \"Rain could drip right through there,\" he said, turning the fallen leaf over in both paws. A cool breeze slid in through the gap and made the corner of his blanket flutter.\n\nMilo climbed up onto the flat stone and tried to press the leaf back into the hole. He stretched as tall as he could on his back paws, but the leaf only bent in the middle and floated down again. He tried a wider leaf next, pushing it up with the fern stem. The leaf turned sideways, sailed past him, and landed smack on top of the thimble cup like a little green hat.",
+      "A soft rustle came from the doorway, and Junie Snail slid in with a curled strip of birch bark balanced on her shell. \"Your roof has a little mouth in it,\" Junie said, peering up at the gap. She reached out and touched the loose leaves with one feeler. \"A flat patch like that needs something stiff behind it, or the leaves just keep falling.\"",
+      "Milo fetched three dry oak leaves from his leaf basket while Junie nudged the strip of birch bark up between the roots. Milo held the bark steady with the fern stem, and Junie pressed the first leaf flat against it until it stuck. Then Milo tucked the bottom edge of a second leaf under the first, the way shingles overlap on the garden shed. Junie smoothed the last leaf into the corner with the side of her shell.\n\nThe open patch disappeared. Milo climbed back onto the flat stone and tapped the mended roof once, then twice \u2014 and every leaf stayed exactly where it was. To be sure, Junie gave the doorway vine a gentle shake, and a few cool drops from outside rolled down the hedge. Milo watched closely, but not a single drop came through the roof.",
+      "Milo lifted the leaf hat off his thimble cup and set the cup neatly back on its stone. Then he tucked the red thread blanket around his paws and looked up at the patched ceiling. \"It sounds quieter up there now,\" he said. Junie settled herself by the doorway on a damp pebble and folded her feelers halfway in.\n\nOutside, rain began to patter softly on the blackberry leaves. Inside, the birch bark held the oak leaves firm and dry between the roots. Milo's blanket stayed warm, and his thimble cup gleamed on its little stone. Junie listened to the rain from the doorway while the burrow grew quiet and still."
+    ],
+    "request": {
+      "main_character_name": "Milo Mouse",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Milo Mouse lived in a little burrow beneath the blackberry hedge, where the tangled roots made a round brown ceiling over his bed. Each evening he swept the doorway with a fern stem and lined his sleeping nook with dry oak leaves. His thimble cup sat on a flat gray stone, and his red thread blanket lay folded neatly at the foot of the nest. Before climbing in, Milo always reached up and tapped the leaf roof once with his paw to make sure it was snug.\n\nThat night, when Milo tapped the roof, one dry leaf slipped loose and drifted straight down onto his nose. He looked up and saw a small open patch of sky between two roots. \"Rain could drip right through there,\" he said, turning the fallen leaf over in both paws. A cool breeze slid in through the gap and made the corner of his blanket flutter.\n\nMilo climbed up onto the flat stone and tried to press the leaf back into the hole. He stretched as tall as he could on his back paws, but the leaf only bent in the middle and floated down again. He tried a wider leaf next, pushing it up with the fern stem. The leaf turned sideways, sailed past him, and landed smack on top of the thimble cup like a little green hat.\n\nA soft rustle came from the doorway, and Junie Snail slid in with a curled strip of birch bark balanced on her shell. \"Your roof has a little mouth in it,\" Junie said, peering up at the gap. She reached out and touched the loose leaves with one feeler. \"A flat patch like that needs something stiff behind it, or the leaves just keep falling.\"\n\nMilo fetched three dry oak leaves from his leaf basket while Junie nudged the strip of birch bark up between the roots. Milo held the bark steady with the fern stem, and Junie pressed the first leaf flat against it until it stuck. Then Milo tucked the bottom edge of a second leaf under the first, the way shingles overlap on the garden shed. Junie smoothed the last leaf into the corner with the side of her shell.\n\nThe open patch disappeared. Milo climbed back onto the flat stone and tapped the mended roof once, then twice \u2014 and every leaf stayed exactly where it was. To be sure, Junie gave the doorway vine a gentle shake, and a few cool drops from outside rolled down the hedge. Milo watched closely, but not a single drop came through the roof.\n\nMilo lifted the leaf hat off his thimble cup and set the cup neatly back on its stone. Then he tucked the red thread blanket around his paws and looked up at the patched ceiling. \"It sounds quieter up there now,\" he said. Junie settled herself by the doorway on a damp pebble and folded her feelers halfway in.\n\nOutside, rain began to patter softly on the blackberry leaves. Inside, the birch bark held the oak leaves firm and dry between the roots. Milo's blanket stayed warm, and his thimble cup gleamed on its little stone. Junie listened to the rain from the doorway while the burrow grew quiet and still.",
+      "title": "Milo\u2019s Leaf Roof"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 542,
+    "body": "Milo Mouse lived in a little burrow beneath the blackberry hedge, where the tangled roots made a round brown ceiling over his bed. Each evening he swept the doorway with a fern stem and lined his sleeping nook with dry oak leaves. His thimble cup sat on a flat gray stone, and his red thread blanket lay folded neatly at the foot of the nest. Before climbing in, Milo always reached up and tapped the leaf roof once with his paw to make sure it was snug.\n\nThat night, when Milo tapped the roof, one dry leaf slipped loose and drifted straight down onto his nose. He looked up and saw a small open patch of sky between two roots. \"Rain could drip right through there,\" he said, turning the fallen leaf over in both paws. A cool breeze slid in through the gap and made the corner of his blanket flutter.\n\nMilo climbed up onto the flat stone and tried to press the leaf back into the hole. He stretched as tall as he could on his back paws, but the leaf only bent in the middle and floated down again. He tried a wider leaf next, pushing it up with the fern stem. The leaf turned sideways, sailed past him, and landed smack on top of the thimble cup like a little green hat.\n\nA soft rustle came from the doorway, and Junie Snail slid in with a curled strip of birch bark balanced on her shell. \"Your roof has a little mouth in it,\" Junie said, peering up at the gap. She reached out and touched the loose leaves with one feeler. \"A flat patch like that needs something stiff behind it, or the leaves just keep falling.\"\n\nMilo fetched three dry oak leaves from his leaf basket while Junie nudged the strip of birch bark up between the roots. Milo held the bark steady with the fern stem, and Junie pressed the first leaf flat against it until it stuck. Then Milo tucked the bottom edge of a second leaf under the first, the way shingles overlap on the garden shed. Junie smoothed the last leaf into the corner with the side of her shell.\n\nThe open patch disappeared. Milo climbed back onto the flat stone and tapped the mended roof once, then twice \u2014 and every leaf stayed exactly where it was. To be sure, Junie gave the doorway vine a gentle shake, and a few cool drops from outside rolled down the hedge. Milo watched closely, but not a single drop came through the roof.\n\nMilo lifted the leaf hat off his thimble cup and set the cup neatly back on its stone. Then he tucked the red thread blanket around his paws and looked up at the patched ceiling. \"It sounds quieter up there now,\" he said. Junie settled herself by the doorway on a damp pebble and folded her feelers halfway in.\n\nOutside, rain began to patter softly on the blackberry leaves. Inside, the birch bark held the oak leaves firm and dry between the roots. Milo's blanket stayed warm, and his thimble cup gleamed on its little stone. Junie listened to the rain from the doorway while the burrow grew quiet and still.",
+    "category_display_name": "Cozy animal story",
+    "category_id": "cozy_animal_story",
+    "characters": [
+      "Milo Mouse",
+      "Junie Snail"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 542,
+      "category_chip": "Cozy animal story",
+      "category_display_name": "Cozy animal story",
+      "category_id": "cozy_animal_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 5,
+      "title": "Milo\u2019s Leaf Roof"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "Milo rests dry under the patched leaf roof while Junie listens to the rain.",
+    "gentle_conflict": "Milo needs to mend a small gap in his burrow roof before rain drips through.",
+    "id": "example-003-milos-leaf-roof",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Milo Mouse lived in a little burrow beneath the blackberry hedge, where the tangled roots made a round brown ceiling over his bed. Each evening he swept the doorway with a fern stem and lined his sleeping nook with dry oak leaves. His thimble cup sat on a flat gray stone, and his red thread blanket lay folded neatly at the foot of the nest. Before climbing in, Milo always reached up and tapped the leaf roof once with his paw to make sure it was snug.",
+      "That night, when Milo tapped the roof, one dry leaf slipped loose and drifted straight down onto his nose. He looked up and saw a small open patch of sky between two roots. \"Rain could drip right through there,\" he said, turning the fallen leaf over in both paws. A cool breeze slid in through the gap and made the corner of his blanket flutter.\n\nMilo climbed up onto the flat stone and tried to press the leaf back into the hole. He stretched as tall as he could on his back paws, but the leaf only bent in the middle and floated down again. He tried a wider leaf next, pushing it up with the fern stem. The leaf turned sideways, sailed past him, and landed smack on top of the thimble cup like a little green hat.",
+      "A soft rustle came from the doorway, and Junie Snail slid in with a curled strip of birch bark balanced on her shell. \"Your roof has a little mouth in it,\" Junie said, peering up at the gap. She reached out and touched the loose leaves with one feeler. \"A flat patch like that needs something stiff behind it, or the leaves just keep falling.\"",
+      "Milo fetched three dry oak leaves from his leaf basket while Junie nudged the strip of birch bark up between the roots. Milo held the bark steady with the fern stem, and Junie pressed the first leaf flat against it until it stuck. Then Milo tucked the bottom edge of a second leaf under the first, the way shingles overlap on the garden shed. Junie smoothed the last leaf into the corner with the side of her shell.\n\nThe open patch disappeared. Milo climbed back onto the flat stone and tapped the mended roof once, then twice \u2014 and every leaf stayed exactly where it was. To be sure, Junie gave the doorway vine a gentle shake, and a few cool drops from outside rolled down the hedge. Milo watched closely, but not a single drop came through the roof.",
+      "Milo lifted the leaf hat off his thimble cup and set the cup neatly back on its stone. Then he tucked the red thread blanket around his paws and looked up at the patched ceiling. \"It sounds quieter up there now,\" he said. Junie settled herself by the doorway on a damp pebble and folded her feelers halfway in.\n\nOutside, rain began to patter softly on the blackberry leaves. Inside, the birch bark held the oak leaves firm and dry between the roots. Milo's blanket stayed warm, and his thimble cup gleamed on its little stone. Junie listened to the rain from the doorway while the burrow grew quiet and still."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-003-milos-leaf-roof",
+    "source_request": "Write a cozy animal story about a mouse fixing his leaf roof before bedtime.",
+    "story_html_path": "stories/example-003-milos-leaf-roof/story.html",
+    "story_json_path": "stories/example-003-milos-leaf-roof/story.json",
+    "story_mode": "auto_detect",
+    "title": "Milo\u2019s Leaf Roof",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Milo Mouse",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-003-milos-leaf-roof"
+}

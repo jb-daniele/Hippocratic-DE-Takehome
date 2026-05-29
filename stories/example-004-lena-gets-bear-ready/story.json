@@ -1,0 +1,128 @@
+{
+  "blueprint": {
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "character_cards": [],
+    "main_characters": [
+      "Lena"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Lena needs to get Bear out of his daytime sweater and ready for sleep.",
+      "ending_image": "Lena holds Bear in the quiet room while a thin line of hallway light glows under the door."
+    },
+    "title": "Lena Gets Bear Ready"
+  },
+  "classification": {
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Lena"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a gentle bedtime story about a child helping a teddy bear get ready for bed.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 474,
+    "blueprint": {
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "character_cards": [],
+      "main_characters": [
+        "Lena"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Lena needs to get Bear out of his daytime sweater and ready for sleep.",
+        "ending_image": "Lena holds Bear in the quiet room while a thin line of hallway light glows under the door."
+      },
+      "title": "Lena Gets Bear Ready"
+    },
+    "cover": {
+      "actual_word_count": 474,
+      "category_chip": "General bedtime story",
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Lena Gets Bear Ready"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Lena had brushed her teeth, rinsed her cup, and picked the moon book down from the low shelf. Her room smelled faintly of clean pajamas and lavender soap. The curtain was open just a finger-width, showing one narrow square of dark blue sky. Bear sat propped against the pillow, waiting with his round ears tilted to one side.\n\nLena reached for Bear and then stopped. He was still wearing his yellow daytime sweater, the one with the tiny apple stitched on the front. \"Bear can't sleep in his outside sweater,\" Lena said, holding him up under the arms. There was a small jam spot, dried hard now, on his chin from afternoon toast.",
+      "Lena carried Bear to the little table beside her bed. She dipped one corner of a washcloth into her water cup and wiped the jam spot in slow, careful circles until it faded away. But the sweater still stayed bunched around Bear's soft middle. She tugged at one sleeve, then frowned when Bear's whole paw vanished up inside it.\n\nMom came to the doorway with the laundry basket on her hip. \"Let's find his sleep sack,\" she said, setting the basket down with a soft thump. She opened the bottom drawer and rummaged through it while Lena held Bear steady. Together they slipped the sweater up over Bear's ears, and Mom folded it into a neat yellow square.",
+      "The sleep sack was blue with one white button on the front. Lena guided Bear's feet down inside it and pulled it up to his chin. Mom fastened the button while Lena gently smoothed Bear's ears flat against his head. Then they tucked the moon book in beside him, turned so he could see the silver picture on the cover.\n\nLena made her bedtime check around the room, pointing as she went. \"Water cup on the shelf. Socks in the basket. Book on the blanket. Curtain open a little.\" She nudged one stray slipper under the chair so nobody would trip on it in the morning. Mom pushed the closet door until it clicked snug in its frame.",
+      "Lena climbed into bed and tucked Bear against her shoulder. She pulled the blanket up over Bear's paws first, then over her own knees. Mom sat on the edge of the bed and read the first two pages of the moon book in a low, even voice. Lena turned the last page slowly, so Bear wouldn't miss the picture of the little sleeping house.\n\nMom set the book on the table and kissed the top of Lena's hair. The hallway light clicked off, leaving a thin golden line glowing under the door. Bear's clean chin rested just above the blue sleep sack, and Lena's hand stayed curled around his paw. Outside the narrow gap in the curtain, the small square of sky held perfectly still."
+    ],
+    "request": {
+      "main_character_name": "Lena",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Lena had brushed her teeth, rinsed her cup, and picked the moon book down from the low shelf. Her room smelled faintly of clean pajamas and lavender soap. The curtain was open just a finger-width, showing one narrow square of dark blue sky. Bear sat propped against the pillow, waiting with his round ears tilted to one side.\n\nLena reached for Bear and then stopped. He was still wearing his yellow daytime sweater, the one with the tiny apple stitched on the front. \"Bear can't sleep in his outside sweater,\" Lena said, holding him up under the arms. There was a small jam spot, dried hard now, on his chin from afternoon toast.\n\nLena carried Bear to the little table beside her bed. She dipped one corner of a washcloth into her water cup and wiped the jam spot in slow, careful circles until it faded away. But the sweater still stayed bunched around Bear's soft middle. She tugged at one sleeve, then frowned when Bear's whole paw vanished up inside it.\n\nMom came to the doorway with the laundry basket on her hip. \"Let's find his sleep sack,\" she said, setting the basket down with a soft thump. She opened the bottom drawer and rummaged through it while Lena held Bear steady. Together they slipped the sweater up over Bear's ears, and Mom folded it into a neat yellow square.\n\nThe sleep sack was blue with one white button on the front. Lena guided Bear's feet down inside it and pulled it up to his chin. Mom fastened the button while Lena gently smoothed Bear's ears flat against his head. Then they tucked the moon book in beside him, turned so he could see the silver picture on the cover.\n\nLena made her bedtime check around the room, pointing as she went. \"Water cup on the shelf. Socks in the basket. Book on the blanket. Curtain open a little.\" She nudged one stray slipper under the chair so nobody would trip on it in the morning. Mom pushed the closet door until it clicked snug in its frame.\n\nLena climbed into bed and tucked Bear against her shoulder. She pulled the blanket up over Bear's paws first, then over her own knees. Mom sat on the edge of the bed and read the first two pages of the moon book in a low, even voice. Lena turned the last page slowly, so Bear wouldn't miss the picture of the little sleeping house.\n\nMom set the book on the table and kissed the top of Lena's hair. The hallway light clicked off, leaving a thin golden line glowing under the door. Bear's clean chin rested just above the blue sleep sack, and Lena's hand stayed curled around his paw. Outside the narrow gap in the curtain, the small square of sky held perfectly still.",
+      "title": "Lena Gets Bear Ready"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 474,
+    "body": "Lena had brushed her teeth, rinsed her cup, and picked the moon book down from the low shelf. Her room smelled faintly of clean pajamas and lavender soap. The curtain was open just a finger-width, showing one narrow square of dark blue sky. Bear sat propped against the pillow, waiting with his round ears tilted to one side.\n\nLena reached for Bear and then stopped. He was still wearing his yellow daytime sweater, the one with the tiny apple stitched on the front. \"Bear can't sleep in his outside sweater,\" Lena said, holding him up under the arms. There was a small jam spot, dried hard now, on his chin from afternoon toast.\n\nLena carried Bear to the little table beside her bed. She dipped one corner of a washcloth into her water cup and wiped the jam spot in slow, careful circles until it faded away. But the sweater still stayed bunched around Bear's soft middle. She tugged at one sleeve, then frowned when Bear's whole paw vanished up inside it.\n\nMom came to the doorway with the laundry basket on her hip. \"Let's find his sleep sack,\" she said, setting the basket down with a soft thump. She opened the bottom drawer and rummaged through it while Lena held Bear steady. Together they slipped the sweater up over Bear's ears, and Mom folded it into a neat yellow square.\n\nThe sleep sack was blue with one white button on the front. Lena guided Bear's feet down inside it and pulled it up to his chin. Mom fastened the button while Lena gently smoothed Bear's ears flat against his head. Then they tucked the moon book in beside him, turned so he could see the silver picture on the cover.\n\nLena made her bedtime check around the room, pointing as she went. \"Water cup on the shelf. Socks in the basket. Book on the blanket. Curtain open a little.\" She nudged one stray slipper under the chair so nobody would trip on it in the morning. Mom pushed the closet door until it clicked snug in its frame.\n\nLena climbed into bed and tucked Bear against her shoulder. She pulled the blanket up over Bear's paws first, then over her own knees. Mom sat on the edge of the bed and read the first two pages of the moon book in a low, even voice. Lena turned the last page slowly, so Bear wouldn't miss the picture of the little sleeping house.\n\nMom set the book on the table and kissed the top of Lena's hair. The hallway light clicked off, leaving a thin golden line glowing under the door. Bear's clean chin rested just above the blue sleep sack, and Lena's hand stayed curled around his paw. Outside the narrow gap in the curtain, the small square of sky held perfectly still.",
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "characters": [
+      "Lena",
+      "Bear",
+      "Mom"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 474,
+      "category_chip": "General bedtime story",
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Lena Gets Bear Ready"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "Lena holds Bear in the quiet room while a thin line of hallway light glows under the door.",
+    "gentle_conflict": "Lena needs to get Bear out of his daytime sweater and ready for sleep.",
+    "id": "example-004-lena-gets-bear-ready",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Lena had brushed her teeth, rinsed her cup, and picked the moon book down from the low shelf. Her room smelled faintly of clean pajamas and lavender soap. The curtain was open just a finger-width, showing one narrow square of dark blue sky. Bear sat propped against the pillow, waiting with his round ears tilted to one side.\n\nLena reached for Bear and then stopped. He was still wearing his yellow daytime sweater, the one with the tiny apple stitched on the front. \"Bear can't sleep in his outside sweater,\" Lena said, holding him up under the arms. There was a small jam spot, dried hard now, on his chin from afternoon toast.",
+      "Lena carried Bear to the little table beside her bed. She dipped one corner of a washcloth into her water cup and wiped the jam spot in slow, careful circles until it faded away. But the sweater still stayed bunched around Bear's soft middle. She tugged at one sleeve, then frowned when Bear's whole paw vanished up inside it.\n\nMom came to the doorway with the laundry basket on her hip. \"Let's find his sleep sack,\" she said, setting the basket down with a soft thump. She opened the bottom drawer and rummaged through it while Lena held Bear steady. Together they slipped the sweater up over Bear's ears, and Mom folded it into a neat yellow square.",
+      "The sleep sack was blue with one white button on the front. Lena guided Bear's feet down inside it and pulled it up to his chin. Mom fastened the button while Lena gently smoothed Bear's ears flat against his head. Then they tucked the moon book in beside him, turned so he could see the silver picture on the cover.\n\nLena made her bedtime check around the room, pointing as she went. \"Water cup on the shelf. Socks in the basket. Book on the blanket. Curtain open a little.\" She nudged one stray slipper under the chair so nobody would trip on it in the morning. Mom pushed the closet door until it clicked snug in its frame.",
+      "Lena climbed into bed and tucked Bear against her shoulder. She pulled the blanket up over Bear's paws first, then over her own knees. Mom sat on the edge of the bed and read the first two pages of the moon book in a low, even voice. Lena turned the last page slowly, so Bear wouldn't miss the picture of the little sleeping house.\n\nMom set the book on the table and kissed the top of Lena's hair. The hallway light clicked off, leaving a thin golden line glowing under the door. Bear's clean chin rested just above the blue sleep sack, and Lena's hand stayed curled around his paw. Outside the narrow gap in the curtain, the small square of sky held perfectly still."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-004-lena-gets-bear-ready",
+    "source_request": "Write a gentle bedtime story about a child helping a teddy bear get ready for bed.",
+    "story_html_path": "stories/example-004-lena-gets-bear-ready/story.html",
+    "story_json_path": "stories/example-004-lena-gets-bear-ready/story.json",
+    "story_mode": "auto_detect",
+    "title": "Lena Gets Bear Ready",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Lena",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-004-lena-gets-bear-ready"
+}

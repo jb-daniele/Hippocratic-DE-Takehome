@@ -1,0 +1,127 @@
+{
+  "blueprint": {
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "character_cards": [],
+    "main_characters": [
+      "Nora"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Nora wonders where steam goes after it disappears.",
+      "ending_image": "Nora leans against Dad in the warm kitchen after wiping the little moon from the window."
+    },
+    "title": "Nora and the Steam Cloud"
+  },
+  "classification": {
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Nora"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a calm bedtime story about a child noticing steam in the kitchen.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 480,
+    "blueprint": {
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "character_cards": [],
+      "main_characters": [
+        "Nora"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Nora wonders where steam goes after it disappears.",
+        "ending_image": "Nora leans against Dad in the warm kitchen after wiping the little moon from the window."
+      },
+      "title": "Nora and the Steam Cloud"
+    },
+    "cover": {
+      "actual_word_count": 480,
+      "category_chip": "General bedtime story",
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Nora and the Steam Cloud"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Nora sat at the kitchen table while Dad poured warm tea into his blue mug. A pale ribbon of steam rose from the top and curled slowly above the cup. Nora leaned forward with both elbows on the table, watching the steam wiggle, thin out, and fade into nothing. Up in the corner of the window over the sink, one small patch of glass had gone cloudy and gray.\n\nNora pointed at the mug. \"Where does the steam go when I can't see it anymore?\" she asked. Dad set the kettle safely on the back of the counter, away from the edge. Then he pulled his chair closer and looked at the little white curls drifting up from the tea. \"That's a good kitchen question,\" he said.",
+      "\"The tea is warm,\" Dad said, \"so tiny bits of water float up off the top as steam.\" Nora watched the wispy curls lift and disappear. Dad held his hands apart, as if cupping something rising between them. \"And when those tiny bits get cool again, they can turn back into little drops of water.\"\n\nDad opened the drawer and took out a clean metal spoon. He pressed the bowl of it against the cool window for a moment to chill it, then held it up by the handle. \"We can look without touching the hot mug,\" he said. He held the cold spoon just above the steam, high enough that Nora could see right into the shiny bowl.",
+      "The steam brushed against the spoon and vanished where it touched. Nora waited, holding very still so she wouldn't miss anything. Tiny drops began to gather on the cold underside \u2014 first like little pinpricks, then growing into clear, round beads. One bead grew heavy, slid down the curve of the spoon, and stopped at the very edge.\n\n\"Look! The steam touched the cold spoon and turned back into water!\" Nora said, pointing with one finger. Dad nodded and lowered the spoon gently onto a folded napkin. Nora bent close to study the row of beads without touching them. In the kitchen light they shone like small round buttons.",
+      "Then Nora looked over at the cloudy patch on the kitchen window. She leaned in and breathed softly on the glass, and a foggy little circle bloomed where her warm breath landed. With one fingertip she drew a tiny moon inside it. \"More little drops,\" she said, \"from me this time.\" Dad smiled and ran the spoon under the tap.\n\nWhen the tea was gone, Dad carried the empty mug to the sink. Nora wiped her little moon from the window with the corner of a dish towel until the glass was clear again. The kettle sat quiet on the stove, and the spoon rested dry beside the folded napkin. Nora leaned against Dad's arm while the kitchen light glowed warm on the clean table."
+    ],
+    "request": {
+      "main_character_name": "Nora",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Nora sat at the kitchen table while Dad poured warm tea into his blue mug. A pale ribbon of steam rose from the top and curled slowly above the cup. Nora leaned forward with both elbows on the table, watching the steam wiggle, thin out, and fade into nothing. Up in the corner of the window over the sink, one small patch of glass had gone cloudy and gray.\n\nNora pointed at the mug. \"Where does the steam go when I can't see it anymore?\" she asked. Dad set the kettle safely on the back of the counter, away from the edge. Then he pulled his chair closer and looked at the little white curls drifting up from the tea. \"That's a good kitchen question,\" he said.\n\n\"The tea is warm,\" Dad said, \"so tiny bits of water float up off the top as steam.\" Nora watched the wispy curls lift and disappear. Dad held his hands apart, as if cupping something rising between them. \"And when those tiny bits get cool again, they can turn back into little drops of water.\"\n\nDad opened the drawer and took out a clean metal spoon. He pressed the bowl of it against the cool window for a moment to chill it, then held it up by the handle. \"We can look without touching the hot mug,\" he said. He held the cold spoon just above the steam, high enough that Nora could see right into the shiny bowl.\n\nThe steam brushed against the spoon and vanished where it touched. Nora waited, holding very still so she wouldn't miss anything. Tiny drops began to gather on the cold underside \u2014 first like little pinpricks, then growing into clear, round beads. One bead grew heavy, slid down the curve of the spoon, and stopped at the very edge.\n\n\"Look! The steam touched the cold spoon and turned back into water!\" Nora said, pointing with one finger. Dad nodded and lowered the spoon gently onto a folded napkin. Nora bent close to study the row of beads without touching them. In the kitchen light they shone like small round buttons.\n\nThen Nora looked over at the cloudy patch on the kitchen window. She leaned in and breathed softly on the glass, and a foggy little circle bloomed where her warm breath landed. With one fingertip she drew a tiny moon inside it. \"More little drops,\" she said, \"from me this time.\" Dad smiled and ran the spoon under the tap.\n\nWhen the tea was gone, Dad carried the empty mug to the sink. Nora wiped her little moon from the window with the corner of a dish towel until the glass was clear again. The kettle sat quiet on the stove, and the spoon rested dry beside the folded napkin. Nora leaned against Dad's arm while the kitchen light glowed warm on the clean table.",
+      "title": "Nora and the Steam Cloud"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 480,
+    "body": "Nora sat at the kitchen table while Dad poured warm tea into his blue mug. A pale ribbon of steam rose from the top and curled slowly above the cup. Nora leaned forward with both elbows on the table, watching the steam wiggle, thin out, and fade into nothing. Up in the corner of the window over the sink, one small patch of glass had gone cloudy and gray.\n\nNora pointed at the mug. \"Where does the steam go when I can't see it anymore?\" she asked. Dad set the kettle safely on the back of the counter, away from the edge. Then he pulled his chair closer and looked at the little white curls drifting up from the tea. \"That's a good kitchen question,\" he said.\n\n\"The tea is warm,\" Dad said, \"so tiny bits of water float up off the top as steam.\" Nora watched the wispy curls lift and disappear. Dad held his hands apart, as if cupping something rising between them. \"And when those tiny bits get cool again, they can turn back into little drops of water.\"\n\nDad opened the drawer and took out a clean metal spoon. He pressed the bowl of it against the cool window for a moment to chill it, then held it up by the handle. \"We can look without touching the hot mug,\" he said. He held the cold spoon just above the steam, high enough that Nora could see right into the shiny bowl.\n\nThe steam brushed against the spoon and vanished where it touched. Nora waited, holding very still so she wouldn't miss anything. Tiny drops began to gather on the cold underside \u2014 first like little pinpricks, then growing into clear, round beads. One bead grew heavy, slid down the curve of the spoon, and stopped at the very edge.\n\n\"Look! The steam touched the cold spoon and turned back into water!\" Nora said, pointing with one finger. Dad nodded and lowered the spoon gently onto a folded napkin. Nora bent close to study the row of beads without touching them. In the kitchen light they shone like small round buttons.\n\nThen Nora looked over at the cloudy patch on the kitchen window. She leaned in and breathed softly on the glass, and a foggy little circle bloomed where her warm breath landed. With one fingertip she drew a tiny moon inside it. \"More little drops,\" she said, \"from me this time.\" Dad smiled and ran the spoon under the tap.\n\nWhen the tea was gone, Dad carried the empty mug to the sink. Nora wiped her little moon from the window with the corner of a dish towel until the glass was clear again. The kettle sat quiet on the stove, and the spoon rested dry beside the folded napkin. Nora leaned against Dad's arm while the kitchen light glowed warm on the clean table.",
+    "category_display_name": "General bedtime story",
+    "category_id": "general_bedtime_story",
+    "characters": [
+      "Nora",
+      "Dad"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 480,
+      "category_chip": "General bedtime story",
+      "category_display_name": "General bedtime story",
+      "category_id": "general_bedtime_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Nora and the Steam Cloud"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "Nora leans against Dad in the warm kitchen after wiping the little moon from the window.",
+    "gentle_conflict": "Nora wonders where steam goes after it disappears.",
+    "id": "example-002-nora-and-the-steam-cloud",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Nora sat at the kitchen table while Dad poured warm tea into his blue mug. A pale ribbon of steam rose from the top and curled slowly above the cup. Nora leaned forward with both elbows on the table, watching the steam wiggle, thin out, and fade into nothing. Up in the corner of the window over the sink, one small patch of glass had gone cloudy and gray.\n\nNora pointed at the mug. \"Where does the steam go when I can't see it anymore?\" she asked. Dad set the kettle safely on the back of the counter, away from the edge. Then he pulled his chair closer and looked at the little white curls drifting up from the tea. \"That's a good kitchen question,\" he said.",
+      "\"The tea is warm,\" Dad said, \"so tiny bits of water float up off the top as steam.\" Nora watched the wispy curls lift and disappear. Dad held his hands apart, as if cupping something rising between them. \"And when those tiny bits get cool again, they can turn back into little drops of water.\"\n\nDad opened the drawer and took out a clean metal spoon. He pressed the bowl of it against the cool window for a moment to chill it, then held it up by the handle. \"We can look without touching the hot mug,\" he said. He held the cold spoon just above the steam, high enough that Nora could see right into the shiny bowl.",
+      "The steam brushed against the spoon and vanished where it touched. Nora waited, holding very still so she wouldn't miss anything. Tiny drops began to gather on the cold underside \u2014 first like little pinpricks, then growing into clear, round beads. One bead grew heavy, slid down the curve of the spoon, and stopped at the very edge.\n\n\"Look! The steam touched the cold spoon and turned back into water!\" Nora said, pointing with one finger. Dad nodded and lowered the spoon gently onto a folded napkin. Nora bent close to study the row of beads without touching them. In the kitchen light they shone like small round buttons.",
+      "Then Nora looked over at the cloudy patch on the kitchen window. She leaned in and breathed softly on the glass, and a foggy little circle bloomed where her warm breath landed. With one fingertip she drew a tiny moon inside it. \"More little drops,\" she said, \"from me this time.\" Dad smiled and ran the spoon under the tap.\n\nWhen the tea was gone, Dad carried the empty mug to the sink. Nora wiped her little moon from the window with the corner of a dish towel until the glass was clear again. The kettle sat quiet on the stove, and the spoon rested dry beside the folded napkin. Nora leaned against Dad's arm while the kitchen light glowed warm on the clean table."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-002-nora-and-the-steam-cloud",
+    "source_request": "Write a calm bedtime story about a child noticing steam in the kitchen.",
+    "story_html_path": "stories/example-002-nora-and-the-steam-cloud/story.html",
+    "story_json_path": "stories/example-002-nora-and-the-steam-cloud/story.json",
+    "story_mode": "auto_detect",
+    "title": "Nora and the Steam Cloud",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Nora",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-002-nora-and-the-steam-cloud"
+}

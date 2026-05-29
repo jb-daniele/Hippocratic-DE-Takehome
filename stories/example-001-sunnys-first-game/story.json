@@ -1,0 +1,131 @@
+{
+  "blueprint": {
+    "category_display_name": "Friendship and feelings",
+    "category_id": "friendship_and_feelings",
+    "character_cards": [],
+    "main_characters": [
+      "Sunny Mole"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Sunny wants to join the game but feels nervous about getting in the way.",
+      "ending_image": "Sunny rests with Lily and the meadow friends around his pebble in the golden light."
+    },
+    "title": "Sunny's First Game"
+  },
+  "classification": {
+    "category_display_name": "Friendship and feelings",
+    "category_id": "friendship_and_feelings",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Sunny Mole"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a gentle friendship story about a shy mole joining a meadow game.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 525,
+    "blueprint": {
+      "category_display_name": "Friendship and feelings",
+      "category_id": "friendship_and_feelings",
+      "character_cards": [],
+      "main_characters": [
+        "Sunny Mole"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Sunny wants to join the game but feels nervous about getting in the way.",
+        "ending_image": "Sunny rests with Lily and the meadow friends around his pebble in the golden light."
+      },
+      "title": "Sunny's First Game"
+    },
+    "cover": {
+      "actual_word_count": 525,
+      "category_chip": "Friendship and feelings",
+      "category_display_name": "Friendship and feelings",
+      "category_id": "friendship_and_feelings",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 5,
+      "title": "Sunny's First Game"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Sunny Mole sat at the edge of the clover patch while the meadow animals played ring-tag in the late afternoon light. Lily Rabbit hopped around the circle, Finch fluttered from stump to stone, and Squirrel darted between the tall grass stems. Every time someone was tagged, they laughed and traded places, and the game spun round and round like a wheel. Sunny held a smooth gray pebble in both paws and watched, turning it over and over while the others ran.",
+      "Sunny wanted to play, but his paws stayed tucked under him. When Lily ran close, he opened his mouth to call out, then shut it again before any words came. He shuffled behind a tall dandelion stalk and rubbed one paw over the pebble until it grew warm. \"They already know how to play,\" he whispered to himself. \"I'll only get in the way.\"\n\nSunny took two small steps toward the circle, his nose twitching. Just then Finch swooped past, laughing, \"Tag Squirrel next!\" and Squirrel zipped behind a buttercup so fast the petals shook. Sunny stopped so suddenly that his nose bumped the clover leaves. He backed up to the dandelion and looked down at his pebble again.",
+      "Lily slowed when she saw Sunny standing by himself. She hopped out of the game and came to his side, leaving little prints in the soft dirt. \"Do you want a first turn that's easy?\" she asked. Then she held out one paw and stood very still. \"You can tag me before I run. I won't move until you do.\"\n\nSunny looked at Lily's paw, then at the circle of animals waiting beyond her. He reached out slowly and gave her paw one careful tap. \"Tag,\" he said, very quietly. Lily sprang away with a happy laugh and called over her shoulder, \"Sunny tagged me! Now I chase Finch!\"",
+      "Finch landed on the low stump and waved one wing. \"Let's make the circle wider,\" he said. Squirrel pushed two fallen leaves out of the way to clear a path, and the rabbits hopped back so Sunny had plenty of room. Then Lily ran past Sunny again \u2014 slowly this time, close enough for him to reach but far enough to make it a real game.\n\nSunny's paws began to move faster over the grass. He laughed out loud when Squirrel peeked from behind a daisy with only his bushy tail showing. When Finch fluttered down low, Sunny reached out and tapped the stump instead of Finch's wing, and Finch said, \"That counts for a mole turn.\" Sunny grinned so wide that his pebble slipped right out of his paws and bounced softly into the clover.",
+      "When the game ended, the animals flopped down together in the cool grass. Lily settled beside Sunny near the dandelion, and Finch tucked his head under one wing on the stump while Squirrel curled his tail around his feet. Sunny's pebble rested in the middle of the clover circle, gray and smooth, where everyone could see it. The meadow grew quiet around them, and Sunny leaned his shoulder gently against Lily's side as the last of the sunlight went gold."
+    ],
+    "request": {
+      "main_character_name": "Sunny Mole",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Sunny Mole sat at the edge of the clover patch while the meadow animals played ring-tag in the late afternoon light. Lily Rabbit hopped around the circle, Finch fluttered from stump to stone, and Squirrel darted between the tall grass stems. Every time someone was tagged, they laughed and traded places, and the game spun round and round like a wheel. Sunny held a smooth gray pebble in both paws and watched, turning it over and over while the others ran.\n\nSunny wanted to play, but his paws stayed tucked under him. When Lily ran close, he opened his mouth to call out, then shut it again before any words came. He shuffled behind a tall dandelion stalk and rubbed one paw over the pebble until it grew warm. \"They already know how to play,\" he whispered to himself. \"I'll only get in the way.\"\n\nSunny took two small steps toward the circle, his nose twitching. Just then Finch swooped past, laughing, \"Tag Squirrel next!\" and Squirrel zipped behind a buttercup so fast the petals shook. Sunny stopped so suddenly that his nose bumped the clover leaves. He backed up to the dandelion and looked down at his pebble again.\n\nLily slowed when she saw Sunny standing by himself. She hopped out of the game and came to his side, leaving little prints in the soft dirt. \"Do you want a first turn that's easy?\" she asked. Then she held out one paw and stood very still. \"You can tag me before I run. I won't move until you do.\"\n\nSunny looked at Lily's paw, then at the circle of animals waiting beyond her. He reached out slowly and gave her paw one careful tap. \"Tag,\" he said, very quietly. Lily sprang away with a happy laugh and called over her shoulder, \"Sunny tagged me! Now I chase Finch!\"\n\nFinch landed on the low stump and waved one wing. \"Let's make the circle wider,\" he said. Squirrel pushed two fallen leaves out of the way to clear a path, and the rabbits hopped back so Sunny had plenty of room. Then Lily ran past Sunny again \u2014 slowly this time, close enough for him to reach but far enough to make it a real game.\n\nSunny's paws began to move faster over the grass. He laughed out loud when Squirrel peeked from behind a daisy with only his bushy tail showing. When Finch fluttered down low, Sunny reached out and tapped the stump instead of Finch's wing, and Finch said, \"That counts for a mole turn.\" Sunny grinned so wide that his pebble slipped right out of his paws and bounced softly into the clover.\n\nWhen the game ended, the animals flopped down together in the cool grass. Lily settled beside Sunny near the dandelion, and Finch tucked his head under one wing on the stump while Squirrel curled his tail around his feet. Sunny's pebble rested in the middle of the clover circle, gray and smooth, where everyone could see it. The meadow grew quiet around them, and Sunny leaned his shoulder gently against Lily's side as the last of the sunlight went gold.",
+      "title": "Sunny's First Game"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 525,
+    "body": "Sunny Mole sat at the edge of the clover patch while the meadow animals played ring-tag in the late afternoon light. Lily Rabbit hopped around the circle, Finch fluttered from stump to stone, and Squirrel darted between the tall grass stems. Every time someone was tagged, they laughed and traded places, and the game spun round and round like a wheel. Sunny held a smooth gray pebble in both paws and watched, turning it over and over while the others ran.\n\nSunny wanted to play, but his paws stayed tucked under him. When Lily ran close, he opened his mouth to call out, then shut it again before any words came. He shuffled behind a tall dandelion stalk and rubbed one paw over the pebble until it grew warm. \"They already know how to play,\" he whispered to himself. \"I'll only get in the way.\"\n\nSunny took two small steps toward the circle, his nose twitching. Just then Finch swooped past, laughing, \"Tag Squirrel next!\" and Squirrel zipped behind a buttercup so fast the petals shook. Sunny stopped so suddenly that his nose bumped the clover leaves. He backed up to the dandelion and looked down at his pebble again.\n\nLily slowed when she saw Sunny standing by himself. She hopped out of the game and came to his side, leaving little prints in the soft dirt. \"Do you want a first turn that's easy?\" she asked. Then she held out one paw and stood very still. \"You can tag me before I run. I won't move until you do.\"\n\nSunny looked at Lily's paw, then at the circle of animals waiting beyond her. He reached out slowly and gave her paw one careful tap. \"Tag,\" he said, very quietly. Lily sprang away with a happy laugh and called over her shoulder, \"Sunny tagged me! Now I chase Finch!\"\n\nFinch landed on the low stump and waved one wing. \"Let's make the circle wider,\" he said. Squirrel pushed two fallen leaves out of the way to clear a path, and the rabbits hopped back so Sunny had plenty of room. Then Lily ran past Sunny again \u2014 slowly this time, close enough for him to reach but far enough to make it a real game.\n\nSunny's paws began to move faster over the grass. He laughed out loud when Squirrel peeked from behind a daisy with only his bushy tail showing. When Finch fluttered down low, Sunny reached out and tapped the stump instead of Finch's wing, and Finch said, \"That counts for a mole turn.\" Sunny grinned so wide that his pebble slipped right out of his paws and bounced softly into the clover.\n\nWhen the game ended, the animals flopped down together in the cool grass. Lily settled beside Sunny near the dandelion, and Finch tucked his head under one wing on the stump while Squirrel curled his tail around his feet. Sunny's pebble rested in the middle of the clover circle, gray and smooth, where everyone could see it. The meadow grew quiet around them, and Sunny leaned his shoulder gently against Lily's side as the last of the sunlight went gold.",
+    "category_display_name": "Friendship and feelings",
+    "category_id": "friendship_and_feelings",
+    "characters": [
+      "Sunny Mole",
+      "Lily Rabbit",
+      "Finch",
+      "Squirrel"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 525,
+      "category_chip": "Friendship and feelings",
+      "category_display_name": "Friendship and feelings",
+      "category_id": "friendship_and_feelings",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 5,
+      "title": "Sunny's First Game"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "Sunny rests with Lily and the meadow friends around his pebble in the golden light.",
+    "gentle_conflict": "Sunny wants to join the game but feels nervous about getting in the way.",
+    "id": "example-001-sunnys-first-game",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Sunny Mole sat at the edge of the clover patch while the meadow animals played ring-tag in the late afternoon light. Lily Rabbit hopped around the circle, Finch fluttered from stump to stone, and Squirrel darted between the tall grass stems. Every time someone was tagged, they laughed and traded places, and the game spun round and round like a wheel. Sunny held a smooth gray pebble in both paws and watched, turning it over and over while the others ran.",
+      "Sunny wanted to play, but his paws stayed tucked under him. When Lily ran close, he opened his mouth to call out, then shut it again before any words came. He shuffled behind a tall dandelion stalk and rubbed one paw over the pebble until it grew warm. \"They already know how to play,\" he whispered to himself. \"I'll only get in the way.\"\n\nSunny took two small steps toward the circle, his nose twitching. Just then Finch swooped past, laughing, \"Tag Squirrel next!\" and Squirrel zipped behind a buttercup so fast the petals shook. Sunny stopped so suddenly that his nose bumped the clover leaves. He backed up to the dandelion and looked down at his pebble again.",
+      "Lily slowed when she saw Sunny standing by himself. She hopped out of the game and came to his side, leaving little prints in the soft dirt. \"Do you want a first turn that's easy?\" she asked. Then she held out one paw and stood very still. \"You can tag me before I run. I won't move until you do.\"\n\nSunny looked at Lily's paw, then at the circle of animals waiting beyond her. He reached out slowly and gave her paw one careful tap. \"Tag,\" he said, very quietly. Lily sprang away with a happy laugh and called over her shoulder, \"Sunny tagged me! Now I chase Finch!\"",
+      "Finch landed on the low stump and waved one wing. \"Let's make the circle wider,\" he said. Squirrel pushed two fallen leaves out of the way to clear a path, and the rabbits hopped back so Sunny had plenty of room. Then Lily ran past Sunny again \u2014 slowly this time, close enough for him to reach but far enough to make it a real game.\n\nSunny's paws began to move faster over the grass. He laughed out loud when Squirrel peeked from behind a daisy with only his bushy tail showing. When Finch fluttered down low, Sunny reached out and tapped the stump instead of Finch's wing, and Finch said, \"That counts for a mole turn.\" Sunny grinned so wide that his pebble slipped right out of his paws and bounced softly into the clover.",
+      "When the game ended, the animals flopped down together in the cool grass. Lily settled beside Sunny near the dandelion, and Finch tucked his head under one wing on the stump while Squirrel curled his tail around his feet. Sunny's pebble rested in the middle of the clover circle, gray and smooth, where everyone could see it. The meadow grew quiet around them, and Sunny leaned his shoulder gently against Lily's side as the last of the sunlight went gold."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-001-sunnys-first-game",
+    "source_request": "Write a gentle friendship story about a shy mole joining a meadow game.",
+    "story_html_path": "stories/example-001-sunnys-first-game/story.html",
+    "story_json_path": "stories/example-001-sunnys-first-game/story.json",
+    "story_mode": "auto_detect",
+    "title": "Sunny's First Game",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Sunny Mole",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-001-sunnys-first-game"
+}

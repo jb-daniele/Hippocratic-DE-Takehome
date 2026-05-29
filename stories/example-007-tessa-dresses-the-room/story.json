@@ -1,0 +1,128 @@
+{
+  "blueprint": {
+    "category_display_name": "Silly soft story",
+    "category_id": "silly_soft_story",
+    "character_cards": [],
+    "main_characters": [
+      "Tessa"
+    ],
+    "scene_cards": [],
+    "selected_story_mode": "auto_detect",
+    "story_spine": {
+      "central_problem": "Tessa dresses the room instead of finishing her own pajamas.",
+      "ending_image": "Tessa smiles in bed while the room stands bare and proper in the dark."
+    },
+    "title": "Tessa Dresses the Room"
+  },
+  "classification": {
+    "category_display_name": "Silly soft story",
+    "category_id": "silly_soft_story",
+    "classifier_confidence": "high",
+    "classifier_rationale": "Seeded.",
+    "classifier_skipped": true,
+    "fallback": false,
+    "main_characters": [
+      "Tessa"
+    ],
+    "matched_signals": [],
+    "request_text": "Write a silly soft bedtime story about a child putting pajamas on the room.",
+    "selected_story_mode": "auto_detect"
+  },
+  "created_at": "2026-05-28T00:00:00Z",
+  "final_package": {
+    "actual_word_count": 448,
+    "blueprint": {
+      "category_display_name": "Silly soft story",
+      "category_id": "silly_soft_story",
+      "character_cards": [],
+      "main_characters": [
+        "Tessa"
+      ],
+      "scene_cards": [],
+      "selected_story_mode": "auto_detect",
+      "story_spine": {
+        "central_problem": "Tessa dresses the room instead of finishing her own pajamas.",
+        "ending_image": "Tessa smiles in bed while the room stands bare and proper in the dark."
+      },
+      "title": "Tessa Dresses the Room"
+    },
+    "cover": {
+      "actual_word_count": 448,
+      "category_chip": "Silly soft story",
+      "category_display_name": "Silly soft story",
+      "category_id": "silly_soft_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Tessa Dresses the Room"
+    },
+    "page_break_suggestions": [],
+    "pages": [
+      "Tessa was supposed to put on her pajamas after bath time. Her towel hung on the hook, her hair was combed flat and damp, and her toothbrush cup sat upside down by the sink to dry. Dad laid the folded pajamas on the bed and patted the stack. \"Shirt, pants, slippers, then story,\" he said.\n\nWhen Dad came back with the storybook, Tessa was wearing the pajama pants \u2014 but not the shirt. The shirt was draped over the bedside lamp like a small sleepy tent. One slipper perched up on the windowsill, and the other was tucked halfway under the edge of the rug. Tessa pointed at the lamp and said, \"It looked chilly.\"",
+      "Dad looked at the lamp, then back at Tessa, then at the lamp again. \"Did you dress the room instead of yourself?\" he asked. Tessa pressed both hands over her mouth to keep her giggle from getting out. The lamp leaned a little under the shirt, with one empty sleeve hanging down like a long, floppy ear.\n\nTessa lifted the pajama shirt off the lamp. Dad held his hand near the bulb to check it and said, \"Lamps don't need pajamas \u2014 especially warm, cozy ones.\" Tessa pulled the shirt over her own head, hunted for the neck hole, and finally pushed both arms through the right sleeves. Dad tugged the hem down so the little buttons lined up straight.",
+      "Next, Tessa rescued the slipper from the windowsill. \"This one wanted the best view of the garden,\" she said, holding it up. She marched it over and set it beside its partner, toe to toe on the rug. Dad fished the hidden slipper out from under the rug and tapped the pair into a tidy line beside the bed.\n\nThen they checked the whole room together in a soft, whispery list. \"Shirt on Tessa. Lamp plain. Slippers paired. Rug flat. Pillow not wearing anything.\" Tessa picked up her teddy bear and peered closely at his round ears. \"Bear's already dressed \u2014 in fur,\" she said, and Dad nodded slowly, as if this were very important news.",
+      "Tessa climbed into bed and wiggled her toes under the blanket. \"Do my toes need hats too?\" she asked, peeking up at him. Dad tucked the blanket snugly around her feet and said, \"Only blanket hats tonight.\" Tessa gave one tiny snort-laugh into her pillow.\n\nDad set the storybook on the chair and clicked off the lamp. The pajama shirt stayed on Tessa, the slippers rested together by the rug, and the lamp stood bare and proper on the table at last. Tessa smiled once into her pillow. The room held perfectly still, wearing only the dark."
+    ],
+    "request": {
+      "main_character_name": "Tessa",
+      "story_mode": "auto_detect"
+    },
+    "story": {
+      "body": "Tessa was supposed to put on her pajamas after bath time. Her towel hung on the hook, her hair was combed flat and damp, and her toothbrush cup sat upside down by the sink to dry. Dad laid the folded pajamas on the bed and patted the stack. \"Shirt, pants, slippers, then story,\" he said.\n\nWhen Dad came back with the storybook, Tessa was wearing the pajama pants \u2014 but not the shirt. The shirt was draped over the bedside lamp like a small sleepy tent. One slipper perched up on the windowsill, and the other was tucked halfway under the edge of the rug. Tessa pointed at the lamp and said, \"It looked chilly.\"\n\nDad looked at the lamp, then back at Tessa, then at the lamp again. \"Did you dress the room instead of yourself?\" he asked. Tessa pressed both hands over her mouth to keep her giggle from getting out. The lamp leaned a little under the shirt, with one empty sleeve hanging down like a long, floppy ear.\n\nTessa lifted the pajama shirt off the lamp. Dad held his hand near the bulb to check it and said, \"Lamps don't need pajamas \u2014 especially warm, cozy ones.\" Tessa pulled the shirt over her own head, hunted for the neck hole, and finally pushed both arms through the right sleeves. Dad tugged the hem down so the little buttons lined up straight.\n\nNext, Tessa rescued the slipper from the windowsill. \"This one wanted the best view of the garden,\" she said, holding it up. She marched it over and set it beside its partner, toe to toe on the rug. Dad fished the hidden slipper out from under the rug and tapped the pair into a tidy line beside the bed.\n\nThen they checked the whole room together in a soft, whispery list. \"Shirt on Tessa. Lamp plain. Slippers paired. Rug flat. Pillow not wearing anything.\" Tessa picked up her teddy bear and peered closely at his round ears. \"Bear's already dressed \u2014 in fur,\" she said, and Dad nodded slowly, as if this were very important news.\n\nTessa climbed into bed and wiggled her toes under the blanket. \"Do my toes need hats too?\" she asked, peeking up at him. Dad tucked the blanket snugly around her feet and said, \"Only blanket hats tonight.\" Tessa gave one tiny snort-laugh into her pillow.\n\nDad set the storybook on the chair and clicked off the lamp. The pajama shirt stayed on Tessa, the slippers rested together by the rug, and the lamp stood bare and proper on the table at last. Tessa smiled once into her pillow. The room held perfectly still, wearing only the dark.",
+      "title": "Tessa Dresses the Room"
+    }
+  },
+  "index_entry": {
+    "actual_word_count": 448,
+    "body": "Tessa was supposed to put on her pajamas after bath time. Her towel hung on the hook, her hair was combed flat and damp, and her toothbrush cup sat upside down by the sink to dry. Dad laid the folded pajamas on the bed and patted the stack. \"Shirt, pants, slippers, then story,\" he said.\n\nWhen Dad came back with the storybook, Tessa was wearing the pajama pants \u2014 but not the shirt. The shirt was draped over the bedside lamp like a small sleepy tent. One slipper perched up on the windowsill, and the other was tucked halfway under the edge of the rug. Tessa pointed at the lamp and said, \"It looked chilly.\"\n\nDad looked at the lamp, then back at Tessa, then at the lamp again. \"Did you dress the room instead of yourself?\" he asked. Tessa pressed both hands over her mouth to keep her giggle from getting out. The lamp leaned a little under the shirt, with one empty sleeve hanging down like a long, floppy ear.\n\nTessa lifted the pajama shirt off the lamp. Dad held his hand near the bulb to check it and said, \"Lamps don't need pajamas \u2014 especially warm, cozy ones.\" Tessa pulled the shirt over her own head, hunted for the neck hole, and finally pushed both arms through the right sleeves. Dad tugged the hem down so the little buttons lined up straight.\n\nNext, Tessa rescued the slipper from the windowsill. \"This one wanted the best view of the garden,\" she said, holding it up. She marched it over and set it beside its partner, toe to toe on the rug. Dad fished the hidden slipper out from under the rug and tapped the pair into a tidy line beside the bed.\n\nThen they checked the whole room together in a soft, whispery list. \"Shirt on Tessa. Lamp plain. Slippers paired. Rug flat. Pillow not wearing anything.\" Tessa picked up her teddy bear and peered closely at his round ears. \"Bear's already dressed \u2014 in fur,\" she said, and Dad nodded slowly, as if this were very important news.\n\nTessa climbed into bed and wiggled her toes under the blanket. \"Do my toes need hats too?\" she asked, peeking up at him. Dad tucked the blanket snugly around her feet and said, \"Only blanket hats tonight.\" Tessa gave one tiny snort-laugh into her pillow.\n\nDad set the storybook on the chair and clicked off the lamp. The pajama shirt stayed on Tessa, the slippers rested together by the rug, and the lamp stood bare and proper on the table at last. Tessa smiled once into her pillow. The room held perfectly still, wearing only the dark.",
+    "category_display_name": "Silly soft story",
+    "category_id": "silly_soft_story",
+    "characters": [
+      "Tessa",
+      "Dad",
+      "Bear"
+    ],
+    "classifier_confidence": "high",
+    "classifier_fallback_status": false,
+    "classifier_matched_signals": [],
+    "classifier_rationale": "Seeded example.",
+    "classifier_skipped": true,
+    "cover": {
+      "actual_word_count": 448,
+      "category_chip": "Silly soft story",
+      "category_display_name": "Silly soft story",
+      "category_id": "silly_soft_story",
+      "characters": [],
+      "classifier_skipped": true,
+      "fallback": false,
+      "page_count": 4,
+      "title": "Tessa Dresses the Room"
+    },
+    "created_at": "2026-05-28T00:00:00Z",
+    "ending_closure_plan": "Tessa smiles in bed while the room stands bare and proper in the dark.",
+    "gentle_conflict": "Tessa dresses the room instead of finishing her own pajamas.",
+    "id": "example-007-tessa-dresses-the-room",
+    "is_example": true,
+    "page_break_suggestions": [],
+    "pages": [
+      "Tessa was supposed to put on her pajamas after bath time. Her towel hung on the hook, her hair was combed flat and damp, and her toothbrush cup sat upside down by the sink to dry. Dad laid the folded pajamas on the bed and patted the stack. \"Shirt, pants, slippers, then story,\" he said.\n\nWhen Dad came back with the storybook, Tessa was wearing the pajama pants \u2014 but not the shirt. The shirt was draped over the bedside lamp like a small sleepy tent. One slipper perched up on the windowsill, and the other was tucked halfway under the edge of the rug. Tessa pointed at the lamp and said, \"It looked chilly.\"",
+      "Dad looked at the lamp, then back at Tessa, then at the lamp again. \"Did you dress the room instead of yourself?\" he asked. Tessa pressed both hands over her mouth to keep her giggle from getting out. The lamp leaned a little under the shirt, with one empty sleeve hanging down like a long, floppy ear.\n\nTessa lifted the pajama shirt off the lamp. Dad held his hand near the bulb to check it and said, \"Lamps don't need pajamas \u2014 especially warm, cozy ones.\" Tessa pulled the shirt over her own head, hunted for the neck hole, and finally pushed both arms through the right sleeves. Dad tugged the hem down so the little buttons lined up straight.",
+      "Next, Tessa rescued the slipper from the windowsill. \"This one wanted the best view of the garden,\" she said, holding it up. She marched it over and set it beside its partner, toe to toe on the rug. Dad fished the hidden slipper out from under the rug and tapped the pair into a tidy line beside the bed.\n\nThen they checked the whole room together in a soft, whispery list. \"Shirt on Tessa. Lamp plain. Slippers paired. Rug flat. Pillow not wearing anything.\" Tessa picked up her teddy bear and peered closely at his round ears. \"Bear's already dressed \u2014 in fur,\" she said, and Dad nodded slowly, as if this were very important news.",
+      "Tessa climbed into bed and wiggled her toes under the blanket. \"Do my toes need hats too?\" she asked, peeking up at him. Dad tucked the blanket snugly around her feet and said, \"Only blanket hats tonight.\" Tessa gave one tiny snort-laugh into her pillow.\n\nDad set the storybook on the chair and clicked off the lamp. The pajama shirt stayed on Tessa, the slippers rested together by the rug, and the lamp stood bare and proper on the table at last. Tessa smiled once into her pillow. The room held perfectly still, wearing only the dark."
+    ],
+    "rating_recorded_at": "2026-05-28T00:00:00Z",
+    "run_id": "example-007-tessa-dresses-the-room",
+    "source_request": "Write a silly soft bedtime story about a child putting pajamas on the room.",
+    "story_html_path": "stories/example-007-tessa-dresses-the-room/story.html",
+    "story_json_path": "stories/example-007-tessa-dresses-the-room/story.json",
+    "story_mode": "auto_detect",
+    "title": "Tessa Dresses the Room",
+    "user_rating": 5
+  },
+  "request_options": {
+    "main_character_name": "Tessa",
+    "story_mode": "auto_detect"
+  },
+  "run_id": "example-007-tessa-dresses-the-room"
+}
