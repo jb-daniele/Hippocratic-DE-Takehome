@@ -1,6 +1,6 @@
 # StoryNest Architecture
 
-This document is the detailed companion to the project [`README.md`](../README.md). It covers the multi-agent pipeline, judge contract, repair routing, safety touch points, and the encoding of bedtime-story principles into prompts and checks. The end-to-end pipeline diagram lives in a separate markdown file at the repo root.
+This document is the detailed companion to the project [`README.md`](../README.md). It covers the multi-agent pipeline, judge contract, repair routing, safety touch points, and the encoding of bedtime-story principles into prompts and checks. The end-to-end pipeline diagram lives in [`StoryNest_DAG.pdf`](../StoryNest_DAG.pdf) at the repo root.
 
 ## 1. Classification
 
@@ -122,7 +122,7 @@ stories/
 
 `story.json` contains request options, classification, blueprint, final package, and the flattened index entry. `stories/index.jsonl` drives retrieval and the saved-story sidebar. `stories/index.html` is a static library view.
 
-## 10. Rated Example Candidates — Internal Details
+## 9. Rated Example Candidates — Internal Details
 
 When `record_user_rating` is called with `rating == 5`, `story_engine/persistence/candidate_examples.export_candidate_if_eligible` writes the run's planner artifacts to:
 

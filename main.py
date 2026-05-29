@@ -113,37 +113,7 @@ def print_package(package, *, debug: bool = False, trace_id: str | None = None) 
     walk_pages(package)
 
 
-def _ask_enjoyed_and_rating() -> tuple[bool, int]:
-    try:
-        enjoyed_raw = input("Did you enjoy this story? [y/n]: ").strip().lower()
-    except EOFError:
-        enjoyed_raw = "n"
-    enjoyed = enjoyed_raw.startswith("y")
-    try:
-        rating_raw = input("Rate this story (1-5): ").strip()
-    except EOFError:
-        rating_raw = "1"
-    try:
-        rating = int(rating_raw)
-    except ValueError:
-        rating = 1
-    rating = max(1, min(5, rating))
-    return enjoyed, rating
-
-
-def _persist_cli(package, enjoyed: bool, rating: int) -> None:
-    if not enjoyed:
-        print("Story discarded.")
-        return
-
-    trace.event("agent.persist", enjoyed=True, rating=rating)
-    paths = persistence.persist_story(package, package.classification)
-    persistence.record_user_rating(paths["run_id"], rating)
-    print(f"Saved story with rating {rating}.")
-
-
 def main() -> None:
-    # Keep the CLI as the stable fallback while Streamlit polish continues.
     args = parse_args()
     request = args.request or input("What kind of story do you want to hear? ")
     options = RequestOptions(
@@ -164,9 +134,6 @@ def main() -> None:
             with trace.Run(trace_id):
                 package = revise_with_feedback(package, feedback, request)
             print_package(package, debug=args.debug, trace_id=trace_id)
-    enjoyed, rating = _ask_enjoyed_and_rating()
-    with trace.Run(trace_id):
-        _persist_cli(package, enjoyed, rating)
 
 
 if __name__ == "__main__":

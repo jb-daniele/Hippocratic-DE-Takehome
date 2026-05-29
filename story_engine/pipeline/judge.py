@@ -1,40 +1,13 @@
 from __future__ import annotations
 
-from concurrent.futures import ThreadPoolExecutor
 from time import perf_counter
 from typing import Any
 
 from story_engine import checks
-from story_engine.agents import judge_coherence, judge_language, judge_safety
 from story_engine.schemas import DraftStory, JudgeDecision, JudgeReport, RequestClassification, RevisionPlan, StoryBlueprint
 from story_engine.trace import event as trace_event
 
-from ._common import APPROVAL_BLOCKING_CHECKS, _latency_ms, _submit_with_trace_context, _trace_check_result, _trace_route
-
-def judge_all(
-    draft,
-    blueprint: StoryBlueprint,
-    classification: RequestClassification,
-    request: str,
-) -> list[JudgeReport]:
-    start = perf_counter()
-    def _judge_language_only(draft, blueprint, classification, request):
-        del blueprint, classification, request
-        return judge_language(draft)
-
-    judges = [
-        ("safety_judge", judge_safety),
-        ("coherence_judge", judge_coherence),
-        ("language", _judge_language_only),
-    ]
-    with ThreadPoolExecutor(max_workers=len(judges)) as executor:
-        futures = {
-            name: _submit_with_trace_context(executor, fn, draft, blueprint, classification, request)
-            for name, fn in judges
-        }
-        reports = [futures[name].result() for name, _ in judges]
-    trace_event("pipeline.judge_all", verdicts={report.judge_name: report.verdict for report in reports}, latency_ms=_latency_ms(start))
-    return reports
+from ._common import APPROVAL_BLOCKING_CHECKS, _latency_ms, _trace_check_result, _trace_route
 
 
 def aggregate_and_decide(reports: list[JudgeReport], post_draft_report) -> JudgeDecision:
@@ -205,29 +178,6 @@ def _cover(classification: RequestClassification, blueprint: StoryBlueprint, act
         "fallback": classification.fallback,
         "classifier_skipped": classification.classifier_skipped,
     }
-
-
-def _evaluate_draft(draft: DraftStory, blueprint: StoryBlueprint, classification: RequestClassification, request: str) -> tuple[Any, list[JudgeReport], JudgeDecision]:
-    post_draft_report = checks.run_all(draft, blueprint)
-    for name, result in post_draft_report.checks.items():
-        _trace_check_result("pipeline.checks", name, result)
-    judge_reports = judge_all(draft, blueprint, classification, request)
-    for report in judge_reports:
-        trace_event(
-            "pipeline.judges",
-            event_type="check_result",
-            check_name=report.judge_name,
-            passed=report.verdict == "pass",
-            fail_codes=[code.to_dict() for code in report.fail_codes],
-            reason=report.reason,
-        )
-    judge_decision = aggregate_and_decide(judge_reports, post_draft_report)
-    trace_event(
-        "agent.judges",
-        approved=judge_decision.approved,
-        failures=[failure.get("judge_name") for failure in judge_decision.failures if isinstance(failure, dict)],
-    )
-    return post_draft_report, judge_reports, judge_decision
 
 
 def _pre_stitch_scene_failures(draft: DraftStory, blueprint: StoryBlueprint) -> list[dict[str, Any]]:

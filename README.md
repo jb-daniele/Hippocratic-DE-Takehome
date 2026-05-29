@@ -60,7 +60,7 @@ Quality is enforced in two layers: the prompts shape each agent's output (low-st
 
 Safety has three touch points: a deterministic pre-request guard, the Safety Judge inside the parallel judge fanout, and a final Safety Judge gate after polish and normalizers. Safety is the only fail-loud path in the pipeline. Non-safety problems (paragraph drift, polish iterations not converging, stitcher edits straying outside scene boundaries, severe coherence failure after the repair budget is spent) degrade with structured trace events and warnings, and the pipeline prefers the latest structurally valid draft instead of halting.
 
-The eight bedtime-story principles encoded in prompts and checks (low stakes, emotional arc, vocabulary fit, concrete language, gentle pacing, coherent closure, sensory warmth, sleep landing) are documented in [`docs/architecture.md`](docs/architecture.md#6-quality-principles--implementation).
+The eleven bedtime-story principles encoded in prompts and checks (low stakes, emotional arc, vocabulary fit, concrete language, gentle pacing, coherent closure, sensory warmth, repetition with purpose, personalization, sleep landing, safety) are documented in [`docs/architecture.md`](docs/architecture.md#6-quality-principles--implementation).
 
 ## Persistence, Ratings, and Rated Example Candidates
 
